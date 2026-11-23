@@ -1,0 +1,6 @@
+__pycache__/
+*.pt
+*.onnx
+data/*
+!data/README.md
+.ipynb_checkpoints/
